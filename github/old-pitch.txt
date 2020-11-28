@@ -1,0 +1,72 @@
+Short bio:
+
+I have been almost entirely dedicated to Common Lisp Open Source for a decade. Creator and maintainer of 30+ libraries in Quicklisp, Common Lispers list, modern public domain CLOS MOP specification, Epic FORMAT table, tons of other cool stuff.
+
+
+Introduction:
+
+(Page due for complete rewrite, sorry.)
+
+-------------------
+
+**Super duper giga special thanks to [Black Brane Systems](https://blackbrane.com/) for TRIPLING their already generous sponsorship to a new effective total of 600$/month! *This is crazy!!***
+
+We are already at a staggering factor of **12x my previous yearly revenues!** Life-changing does not even *begin* to describe it anymore! ***Common Lisp Revival 2020 is truly upon us!!!***
+
+*May this inspire others! All eligible donations are doubled by GitHub until December 2020, up to a total of 5000$. **Let's take full advantage of this opportunity! Thank you!!***
+
+(Note that GitHub does not count doublers towards funding goals, hence the apparent discrepancy.)
+
+**Please consult [my roadmap](https://roadmap.hexstreamsoft.com/) for up-to-date information regarding the exciting features I am planning to release in the near future!**
+
+-------------------
+
+Hello,
+
+I have been almost entirely dedicated to open-source Common Lisp for nearly a decade. I systematically release all my Common Lisp related projects into the Public Domain under the [Unlicense](https://unlicense.org/), thus ensuring everyone can use them however they wish. See all my work at [HexstreamSoft](https://www.hexstreamsoft.com/).
+
+Some of my more notable ready-to-use documentation-related projects are the [Common Lispers list](https://common-lispers.hexstreamsoft.com/), the [modern public domain CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) and the [epic FORMAT table](https://www.hexstreamsoft.com/articles/common-lisp-format-reference/clhs-summary/#subsections-summary-table).
+
+Some of my ready-to-use libraries I am most proud of are [definitions-systems](https://www.hexstreamsoft.com/libraries/definitions-systems/), [place-modifiers](https://www.hexstreamsoft.com/libraries/place-modifiers/), [cartesian-product-switch](https://www.hexstreamsoft.com/libraries/cartesian-product-switch/), [trivial-jumptables](https://www.hexstreamsoft.com/libraries/trivial-jumptables/), [its](https://www.hexstreamsoft.com/libraries/its/), [with-output-to-stream](https://www.hexstreamsoft.com/libraries/with-output-to-stream/) and [cesdi](https://www.hexstreamsoft.com/libraries/cesdi/). *I love making highly focussed, lightweight, single-issue libraries.*
+
+An unfortunately incomplete yet still useful documentation project I have spent 4 months on is my [CL tips article](https://www.hexstreamsoft.com/articles/notes-tips-standard-common-lisp-symbols/). The main page is due for a major refactoring.
+
+I am looking forward to releasing [lispy-format](https://github.com/Hexstream-not-yet-ready/lispy-format) 1.0 in late Q1 2020 at the latest (**edit:** [pushed back by a month, sorry](https://twitter.com/HexstreamSoft/status/1234184515154849792)). I have very concrete ideas for it and have already made significant progress on a private branch. I also have fairly concrete ideas for a very powerful LOOP/Iterate replacement project, but this is a much harder project for which I cannot offer even an approximate release timeline.
+
+[explicit-bind](https://github.com/Hexstream-not-yet-ready/explicit-bind) is a great metabang-bind replacement project I have been trying to finish since forever, but this is unfortunately stalled on, among other things, [first-class-lambda-lists](https://github.com/Hexstream-not-yet-ready/first-class-lambda-lists) which is about 80% complete but itself stalled and not yet usable. Life is hard! ¯\\\_(ツ)\_/¯
+
+I have [recently](https://twitter.com/HexstreamSoft/status/1171593330460909569) deleted a whopping 48 old projects I no longer care about, allowing me to better focus on more important projects. I am starting a round of modernization and other improvements (such as better documentation) for many of my [ready-to-use libraries](https://www.hexstreamsoft.com/libraries/).
+
+One of the biggest and most important projects in the next few years would be to make a public domain spiritual successor to the CLHS, based on dpANS3. I think my [modern public domain CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) proves that I am entirely capable of tackling this project and doing a really great job.
+
+*Unfortunately, my open-source development process has not been entirely dignified,* **almost entirely due to financial concerns. I crucially rely on your support to help pave the road to sustainability!** It is especially important to support me in my first year on GitHub Sponsors, as GitHub will be doubling your donation. I am hoping we will leverage this opportunity to get the ball rolling to the fullest extent!
+
+**The Common Lisp community is on the verge of an *unprecedented revival*, and you can accelerate and embolden this process by funding me and other active Common Lispers. Thank you!**
+
+-------------------
+
+Alternatively, you can [support me on Patreon](https://www.patreon.com/Hexstream).
+My profile there provides complementary details.
+
+
+Featured work:
+
+common-lispers.hexstreamsoft.com
+clos-mop.hexstreamsoft.com
+definitions-systems
+notes-and-tips.hexstreamsoft.com
+roadmap.hexstreamsoft.com
+common-lisp-format-reference
+
+
+Goals:
+
+1000$/month
+
+At this level, I will effectively have "infinite money" while staying in Mom's Basement™ for a few more years.
+
+This means I can concentrate 100% of my energy on making the Common Lisp community successful, and can buy any equipment or services that help my productivity or any other aspects of that goal without a second thought.
+
+My life will be as comfortable as it can possibly be while continuing to lead the Common Lisp community to success, and moreover, my funding success itself will be an interesting marketing device for Common Lisp.
+
+I've been tying my success to Common Lisp's for nearly 15 years, including nearly a decade of open-source. I can only become successful when Common Lisp becomes successful! Help me help Common Lisp!

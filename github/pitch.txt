@@ -1,0 +1,56 @@
+I've been doing Common Lisp related work intensively for 14 years,
+including more than a decade of Common Lisp Open Source.
+
+***[I am a top Common Lisp Open Source contributor.](https://cv.hexstream.expert/)
+See my extensive contributions at [HexstreamSoft](https://www.hexstreamsoft.com/).***
+
+I've basically been running an unregistered Common Lisp startup for 14 years.
+I'm planning to register in 2022 at the latest, since I'm finally starting to make money.
+
+[HexstreamSoft's impressive statistics on Alexa](https://cv.hexstream.expert/#hexstreamsoft-alexa-stats) prove that my work has already been the focus of intense interest for months, and this trend will doubtless intensify even more in 2021 and beyond.
+
+Although not many of my contributions are truly world-class yet, and their true value cannot be meaningfully measured by any malicious, superficial and/or fraudulent "analysis",
+***[I have a solid base for producing multiple truly world-class contributions in 2021 and beyond.](https://roadmap.hexstreamsoft.com/)***
+
+# Common Lisp Revival 2020 Fundraiser
+
+> 1257$ claimed out of 5000$ doubler, with 3743$ remaining.
+> (As of 28 november 2020 at 2:50PM.)
+> Fundraiser runs from 28 november 2020 to **10 december 2020**.
+
+***Common Lisp is the best programming language in the world.***
+
+Yet despite this and our constantly improving technical infrastructure,
+[*Common Lisp has increasingly been losing mindshare for more than a decade*](https://trends.google.com/trends/explore?date=all&q=Common%20Lisp).
+
+**This situation cannot and will not be tolerated.**
+
+***I am spearheading the nascent movement to [make Common Lisp a top 5 programming language by 2040](https://twitter.com/HexstreamSoft/status/1213964177657794577).***
+I believe this is eminently achievable given proper approaches.
+
+I have repeatedly and increasingly demonstrated, *through my actions*, that
+***I am the chief architect of the looming Common Lisp revolution***.
+
+**I am the *only one* who is demonstrating a *comprehensive* approach that can and *will* lead us to success.**
+*On their own*, solid technical contributions are not enough.
+*On their own*, useful articles and community resources are not enough.
+*On their own*, dangerously insightful ethically required public denounciations are not enough.
+***I am the only one providing all of these and more, in impactful quantities, all at once.***
+
+**My biggest detractor has publicly credited me with successfully inciting multiple Common Lispers to move to GitHub Sponsors, the best Open Source funding platform.** This is only one of my countless useful community-building interventions.
+
+**I have *consistently* put the *genuine* interests of the Common Lisp community ahead of my own personal comfort, which has proven quite intolerable to our *ethically handicapped* assumed "leaders", whose positions within the community are ever enhanced and entrenched through its continued destruction and *ruin*.**
+
+***We must build proper infrastructure to create an environment where outstanding community-building contributions are cherished and supported rather than systematically ignored, dismissed, vilified, attacked and/or otherwise undermined for the sole benefit of a tiny self-serving corrupt elite.***
+
+---
+
+I have been prophesizing a Common Lisp revival [for years](https://twitter.com/HexstreamSoft/status/954933223871713280), and because of a great convergence of [factors](https://twitter.com/HexstreamSoft/status/1328049591242149889), I can feel that the time is ripe to finally kickstart the revolution.
+
+As it happens, GitHub confirms that my 5000$ GitHub Sponsors doubler expires on 11 december, which gives us 12 days from 28 november to 10 december to take full advantage of this opportunity to provide me with overwhelming moral and financial support at this critical time, and reinvigorate funding interest towards the Common Lisp community. Thanks to [Black Brane Systems](https://blackbrane.com/), we already have a nice headstart!
+
+Although this is a bit of a tight deadline, I believe this is entirely feasible, but we cannot afford to hesitate, as we can scarcely afford to miss this **historic opportunity to kickstart the Common Lisp revolution immediately!**
+
+So please [pick a tier](https://sponsors.hexstreamsoft.com/about/) according to what you can afford (even if it's just for one month) and GitHub will double your contribution! Select sponsors will also be eligible for [Advanced Perks](https://sponsors.hexstreamsoft.com/about/#perks) in acknowledgement of their contribution towards helping bootstrap the long coming Common Lisp revolution!
+
+Common Lisp, being the best programming language in the world, is successfully used as the *secret weapon* at many companies around the world. Let us all join in celebration to signal to the world that **the intolerable era of stagnation is finally over and Common Lisp will no longer accept to live in obscurity!!!**

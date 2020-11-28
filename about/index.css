@@ -1,0 +1,171 @@
+#lifetime-tiers:not(:target) + #tiers #monthly-tiers-link {
+    color: black;
+    opacity: 1;
+}
+
+#lifetime-tiers:not(:target) + #tiers #monthly-tiers-link:hover {
+    background: transparent;
+}
+
+#lifetime-tiers:target + #tiers #lifetime-tiers-link {
+    color: black;
+    opacity: 1;
+}
+
+#lifetime-tiers:target + #tiers #lifetime-tiers-link:hover {
+    background: transparent;
+}
+
+#tiers .lifetime,
+#tiers .lifetime > span:first-child,
+#tiers .lifetime > span:last-child {
+    display: none;
+}
+
+#lifetime-tiers:target + #tiers .monthly {
+    display: none;
+}
+
+#lifetime-tiers:target + #tiers .lifetime {
+    display: inline;
+}
+
+
+#tiers > h1 {
+    margin-bottom: 0;
+}
+
+#tiers > .cards {
+    justify-content: space-evenly;
+    margin-top: 0;
+}
+
+#tiers > .cards > .card {
+    padding: 0;
+    border: none;
+    margin-top: 2em;
+    background: transparent;
+}
+
+#tiers > .cards > .card > h1 {
+    font-weight: normal;
+}
+
+#tiers > .cards > .card .guideline {
+    padding-left: 0.5em;
+    padding-top: 0.3em;
+    margin-top: 0.3em;
+    font-style: italic;
+    opacity: 0.6;
+    border-top: thin solid rgba(0, 0, 0, 0.4);
+}
+
+#tiers > .cards > .card > h1,
+#tiers > .cards > .card > .hoisted {
+    margin-left: 0.5rem;
+}
+
+#tiers > .cards > .card > .hoisted {
+    font-style: italic;
+}
+
+
+#tiers .cards .cards {
+    flex-flow: column;
+    align-items: stretch;
+}
+
+#tiers .cards .cards .card {
+    margin-right: 0;
+    margin-top: 2.5em;
+    scroll-margin-top: 2.2em;
+}
+
+#tiers .cards .cards .card .hoisted {
+    opacity: 1;
+    font-size: larger;
+}
+
+
+#tiers .sponsor-me {
+    text-decoration: none;
+}
+
+#tiers .sponsor-me:hover,
+#tiers .sponsor-me:focus {
+    text-decoration: underline;
+}
+
+#tiers #sponsor-me-on-github {
+    position: relative;
+    font-size: 3em;
+    font-weight: bold;
+    display: table;
+    padding: 0.5em 1em;
+    border: medium solid black;
+    border-radius: 2em;
+    margin: 0.5em auto;
+    background: #ECECEC;
+    box-shadow: 0.1em 0.1em black;
+}
+
+@media (max-width: 39em) {
+    #tiers #sponsor-me-on-github {
+        font-size: 7vw;
+    }
+}
+
+#tiers #sponsor-me-on-github:active {
+    box-shadow: none;
+    top: 0.1em;
+    left: 0.1em;
+}
+
+#tiers #sponsor-me-on-patreon {
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.6;
+}
+
+#tiers #sponsor-me-on-patreon:hover {
+    opacity: 1;
+}
+
+#lifetime-tiers {
+    position: relative;
+    top: 1em;
+}
+
+
+main table {
+    margin-left: 0;
+}
+
+main table .cost {
+    text-align: right;
+}
+
+
+#common-lisp-revival-2020-fundraiser {
+    display: table;
+    text-align: center;
+    padding: 0.5em 1em 0.2em;
+    border: thin solid black;
+    font-size: larger;
+    line-height: 1.6em;
+}
+
+#common-lisp-revival-2020-fundraiser a {
+    font-size: xx-large;
+}
+
+
+#lifetime-perks > h1 + p {
+    font-size: larger;
+}
+
+
+#ad-kinds section ul {
+    margin-right: 0;
+}
