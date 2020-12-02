@@ -1,6 +1,14 @@
-#top-nav > .main > .tabs ul > li {
-    border-top: none;
-    border-bottom: none;
+#learn-more {
+    font-size: 3.08em;
+}
+
+#learn-more ul li a {
+    padding: 0.1em 0.3em;
+}
+
+#learn-more + .tabs {
+    flex-flow: column;
+    align-items: center;
 }
 
 main .gallery {
