@@ -1,3 +1,5 @@
+[***URGENT APPEAL!!!***](https://sponsors.hexstreamsoft.com/urgent-appeal/)
+
 I've been doing Common Lisp related work intensively for 14 years,
 including more than a decade of Common Lisp Open Source.
 
@@ -18,7 +20,7 @@ Although not many of my contributions are truly world-class yet, and their true 
 > (As of 28 november 2020 at 2:50PM.)
 > Fundraiser runs from 28 november 2020 to **10 december 2020**.
 
-***Common Lisp is the best programming language in the world.***
+***Common Lisp is the best programming language in the world!***
 
 Yet despite this and our constantly improving technical infrastructure,
 [*Common Lisp has increasingly been losing mindshare for more than a decade*](https://trends.google.com/trends/explore?date=all&q=Common%20Lisp).
@@ -53,4 +55,4 @@ Although this is a bit of a tight deadline, I believe this is entirely feasible,
 
 So please [pick a tier](https://sponsors.hexstreamsoft.com/about/) according to what you can afford (even if it's just for one month) and GitHub will double your contribution! Select sponsors will also be eligible for [Advanced Perks](https://sponsors.hexstreamsoft.com/about/#perks) in acknowledgement of their contribution towards helping bootstrap the long coming Common Lisp revolution!
 
-Common Lisp, being the best programming language in the world, is successfully used as the *secret weapon* at many companies around the world. Let us all join in celebration to signal to the world that **the intolerable era of stagnation is finally over and Common Lisp will no longer accept to live in obscurity!!!**
+Common Lisp is successfully used as the *secret weapon* at many companies around the world. Let's signal to the world that **the intolerable era of stagnation is finally over and Common Lisp will no longer accept to live in obscurity!!!**

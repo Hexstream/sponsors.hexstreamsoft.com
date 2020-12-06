@@ -1,0 +1,7 @@
+#page-header + .tabs {
+    font-size: x-large;
+}
+
+#page-header + .tabs ul {
+    margin-bottom: 0;
+}
