@@ -9,6 +9,7 @@
     margin-top: 0;
 }
 
+.log .tier,
 .log .given,
 .log .received {
     text-align: right;
@@ -77,7 +78,10 @@
 #global_black-brane-systems:target ~ * .log tbody tr:not(.black-brane-systems),
 #global_black-brane-systems_a:target ~ * .log tbody tr:not(.black-brane-systems_a),
 #global_black-brane-systems_b:target ~ * .log tbody tr:not(.black-brane-systems_b),
-#global_marcin-kolenda:target ~ * .log tbody tr:not(.marcin-kolenda) {
+#global_david-rueda:target ~ * .log tbody tr:not(.david-rueda),
+#global_marcin-kolenda:target ~ * .log tbody tr:not(.marcin-kolenda),
+#global_alexander-artemenko:target ~ * .log tbody tr:not(.alexander-artemenko),
+#global_matthew-alhonte:target ~ * .log tbody tr:not(.matthew-alhonte) {
     visibility: collapse;
 }
 
