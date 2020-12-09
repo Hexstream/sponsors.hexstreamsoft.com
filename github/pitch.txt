@@ -16,8 +16,8 @@ Although not many of my contributions are truly world-class yet, and their true 
 
 # Common Lisp Revival 2020 Fundraiser
 
-> 1257$ claimed out of 5000$ doubler, with 3743$ remaining.
-> (As of 28 november 2020 at 2:50PM.)
+> 1287$ claimed out of 5000$ doubler, with 3713$ remaining.
+> (As of 6 december 2020 at 10:42PM.)
 > Fundraiser runs from 28 november 2020 to **10 december 2020**.
 
 ***Common Lisp is the best programming language in the world!***
