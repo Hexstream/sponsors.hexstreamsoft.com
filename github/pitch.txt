@@ -1,4 +1,4 @@
-[***URGENT APPEAL!!!***](https://sponsors.hexstreamsoft.com/urgent-appeal/)
+[***EPIC THREAD!!!***](https://github.com/Hexstream/sponsors.hexstreamsoft.com/issues/1)
 
 I've been doing Common Lisp related work intensively for 14 years,
 including more than a decade of Common Lisp Open Source.
@@ -55,4 +55,4 @@ Although this is a bit of a tight deadline, I believe this is entirely feasible,
 
 So please [pick a tier](https://sponsors.hexstreamsoft.com/about/) according to what you can afford (even if it's just for one month) and GitHub will double your contribution! Select sponsors will also be eligible for [Advanced Perks](https://sponsors.hexstreamsoft.com/about/#perks) in acknowledgement of their contribution towards helping bootstrap the long coming Common Lisp revolution!
 
-Common Lisp is successfully used as the *secret weapon* at many companies around the world. Let's signal to the world that **the intolerable era of stagnation is finally over and Common Lisp will no longer accept to live in obscurity!!!**
+Common Lisp is used as the *secret weapon* at many companies around the world. Let's signal to the world that **the intolerable era of stagnation is finally over and Common Lisp will no longer accept to live in obscurity!!!**
