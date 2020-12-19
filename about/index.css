@@ -147,20 +147,6 @@ main table .cost {
 }
 
 
-#common-lisp-revival-2020-fundraiser {
-    display: table;
-    text-align: center;
-    padding: 0.5em 1em 0.2em;
-    border: thin solid black;
-    font-size: larger;
-    line-height: 1.6em;
-}
-
-#common-lisp-revival-2020-fundraiser a {
-    font-size: xx-large;
-}
-
-
 #lifetime-perks > h1 + p {
     font-size: larger;
 }

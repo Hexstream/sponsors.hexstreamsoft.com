@@ -2,6 +2,15 @@
     font-size: 3.08em;
 }
 
+#learn-more ul {
+    margin-top: 0;
+}
+
+#page-header + #learn-more {
+    margin-top: -0.2em;
+    margin-bottom: 0;
+}
+
 #learn-more ul li a {
     padding: 0.1em 0.3em;
 }
@@ -9,6 +18,14 @@
 #learn-more + .tabs {
     flex-flow: column;
     align-items: center;
+}
+
+.tabs.additional {
+    margin-top: 0.75em;
+}
+
+#current-sponsors {
+    margin-top: 0;
 }
 
 main .gallery {
