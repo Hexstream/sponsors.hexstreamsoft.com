@@ -94,8 +94,37 @@
     margin-bottom: 0;
 }
 
-#payouts .log {
-    margin-top: 0;
+#payouts .note {
+    margin-top: 1.5em;
+}
+
+#payouts #payout-tables {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+#payouts .log caption {
+    margin-bottom: 0.15em;
+}
+
+#payouts .log caption a {
+    color: black;
+    text-decoration: none;
+}
+
+#payouts .log caption a:hover,
+#payouts .log caption a:focus {
+    text-decoration: underline;
+}
+
+#payouts .log:not(#payouts > .log) {
+    margin: 0.5em 1.5em;
+}
+
+#payouts > .log {
+    margin-top: 0.5em;
+    margin-bottom: 1em;
 }
 
 #payouts .log tbody:first-of-type tr:last-child th,
