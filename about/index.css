@@ -1,33 +1,28 @@
-#lifetime-tiers:not(:target) + #tiers #monthly-tiers-link {
+#one-time-tiers:not(:target) + #lifetime-tiers:not(:target) + #tiers #monthly-tiers-link {
     color: black;
     opacity: 1;
 }
 
-#lifetime-tiers:not(:target) + #tiers #monthly-tiers-link:hover {
+#one-time-tiers:not(:target) + #lifetime-tiers:not(:target) + #tiers #monthly-tiers-link:hover {
     background: transparent;
 }
 
-#lifetime-tiers:target + #tiers #lifetime-tiers-link {
+#one-time-tiers:target ~ #tiers #one-time-tiers-link,
+#lifetime-tiers:target ~ #tiers #lifetime-tiers-link {
     color: black;
     opacity: 1;
 }
 
-#lifetime-tiers:target + #tiers #lifetime-tiers-link:hover {
+#one-time-tiers:target ~ #tiers #one-time-tiers-link:hover,
+#lifetime-tiers:target ~ #tiers #lifetime-tiers-link:hover {
     background: transparent;
 }
 
-#tiers .lifetime,
-#tiers .lifetime > span:first-child,
-#tiers .lifetime > span:last-child {
+#one-time-tiers:target ~ #tiers .monthly,
+#lifetime-tiers:target ~ #tiers .monthly,
+#one-time-tiers:not(:target) ~ #tiers .one-time,
+#lifetime-tiers:not(:target) ~ #tiers .lifetime {
     display: none;
-}
-
-#lifetime-tiers:target + #tiers .monthly {
-    display: none;
-}
-
-#lifetime-tiers:target + #tiers .lifetime {
-    display: inline;
 }
 
 
@@ -86,6 +81,10 @@
     font-size: larger;
 }
 
+#tiers .cards .cards .card .hoisted .s {
+    display: none;
+}
+
 
 #tiers .sponsor-me {
     text-decoration: none;
@@ -132,6 +131,7 @@
     opacity: 1;
 }
 
+#one-time-tiers,
 #lifetime-tiers {
     position: relative;
     top: 1em;
