@@ -50,7 +50,6 @@
     margin-left: 0.75em;
 }
 
-#global #show-platform:not(:checked) ~ * .log .platform,
 #global #show-tier:not(:checked) ~ * .log .tier,
 #global #show-given:not(:checked) ~ * .log .given,
 #global #show-received:not(:checked) ~ * .log .received,

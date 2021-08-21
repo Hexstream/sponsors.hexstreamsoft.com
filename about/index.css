@@ -120,17 +120,6 @@
     left: 0.1em;
 }
 
-#tiers #sponsor-me-on-patreon {
-    display: table;
-    margin-left: auto;
-    margin-right: auto;
-    opacity: 0.6;
-}
-
-#tiers #sponsor-me-on-patreon:hover {
-    opacity: 1;
-}
-
 #one-time-tiers,
 #lifetime-tiers {
     position: relative;
