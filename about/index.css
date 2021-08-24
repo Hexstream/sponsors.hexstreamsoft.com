@@ -53,6 +53,7 @@
     font-style: italic;
     opacity: 0.6;
     border-top: thin solid rgba(0, 0, 0, 0.4);
+    white-space: nowrap;
 }
 
 #tiers > .cards > .card > h1,
