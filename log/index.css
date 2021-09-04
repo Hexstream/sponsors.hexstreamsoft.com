@@ -100,6 +100,7 @@
 #payouts #payout-tables {
     display: flex;
     flex-flow: row wrap;
+    align-items: flex-end;
     justify-content: center;
 }
 
