@@ -79,9 +79,9 @@
 #global_black-brane-systems_b:target ~ * .log tbody tr:not(.black-brane-systems_b),
 #global_pavel-penev:target ~ * .log tbody tr:not(.pavel-penev),
 #global_dave-cooper:target ~ * .log tbody tr:not(.dave-cooper),
-#global_david-rueda:target ~ * .log tbody tr:not(.david-rueda),
 #global_tor-henrik-hanken:target ~ * .log tbody tr:not(.tor-henrik-hanken),
 #global_matthew-alhonte:target ~ * .log tbody tr:not(.matthew-alhonte),
+#global_david-rueda:target ~ * .log tbody tr:not(.david-rueda),
 #global_thomas-bakketun:target ~ * .log tbody tr:not(.thomas-bakketun),
 #global_alexander-artemenko:target ~ * .log tbody tr:not(.alexander-artemenko),
 #global_marcin-kolenda:target ~ * .log tbody tr:not(.marcin-kolenda) {
