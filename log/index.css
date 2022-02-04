@@ -15,6 +15,10 @@
     text-align: right;
 }
 
+.log .tier .yearly {
+    font-size: smaller;
+}
+
 .log .day,
 .log .time {
     white-space: nowrap;
