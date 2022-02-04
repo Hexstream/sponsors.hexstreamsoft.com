@@ -15,8 +15,11 @@
     text-align: right;
 }
 
-.log .tier .yearly {
+.log .mod {
+    margin-left: -0.3rem;
+    margin-right: 0.15rem;
     font-size: smaller;
+    opacity: 0.6;
 }
 
 .log .day,
@@ -54,11 +57,17 @@
     margin-left: 0.75em;
 }
 
+
+#global #show-modifiers + label + label {
+    font-style: italic;
+    margin-right: 1.5em;
+}
+
+#global #show-modifiers:not(:checked) ~ * .log .mod,
 #global #show-tier:not(:checked) ~ * .log .tier,
 #global #show-given:not(:checked) ~ * .log .given,
 #global #show-received:not(:checked) ~ * .log .received,
 #global #show-date:not(:checked) ~ * .log .date,
-#global #show-notes:not(:checked) ~ * .log .notes,
 #global #show-txid:not(:checked) ~ * .log .txid {
     display: none;
 }
