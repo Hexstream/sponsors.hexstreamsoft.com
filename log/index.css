@@ -39,7 +39,7 @@
 }
 
 
-#global {
+#donations {
     display: block;
 }
 
@@ -58,47 +58,47 @@
 }
 
 
-#global #show-modifiers + label + label {
+#donations #show-modifiers + label + label {
     font-style: italic;
     margin-right: 1.5em;
 }
 
-#global #show-modifiers:not(:checked) ~ * .log .mod,
-#global #show-tier:not(:checked) ~ * .log .tier,
-#global #show-given:not(:checked) ~ * .log .given,
-#global #show-received:not(:checked) ~ * .log .received,
-#global #show-date:not(:checked) ~ * .log .date,
-#global #show-txid:not(:checked) ~ * .log .txid {
+#donations #show-modifiers:not(:checked) ~ * .log .mod,
+#donations #show-tier:not(:checked) ~ * .log .tier,
+#donations #show-given:not(:checked) ~ * .log .given,
+#donations #show-received:not(:checked) ~ * .log .received,
+#donations #show-date:not(:checked) ~ * .log .date,
+#donations #show-txid:not(:checked) ~ * .log .txid {
     display: none;
 }
 
 
-#global > .tabs ul li {
+#donations > .tabs ul li {
     display: flex;
     flex-flow: row;
 }
 
-#global > .tabs ul li a {
+#donations > .tabs ul li a {
     flex: none;
 }
 
-#global > .tabs ul li .subsponsor {
+#donations > .tabs ul li .subsponsor {
     padding-left: 0.25em;
 }
 
 
-#global_black-brane-systems:target ~ * .log tbody tr:not(.black-brane-systems),
-#global_black-brane-systems_a:target ~ * .log tbody tr:not(.black-brane-systems_a),
-#global_black-brane-systems_b:target ~ * .log tbody tr:not(.black-brane-systems_b),
-#global_pavel-penev:target ~ * .log tbody tr:not(.pavel-penev),
-#global_tor-henrik-hanken:target ~ * .log tbody tr:not(.tor-henrik-hanken),
-#global_matthew-alhonte:target ~ * .log tbody tr:not(.matthew-alhonte),
-#global_dave-cooper:target ~ * .log tbody tr:not(.dave-cooper),
-#global_david-rueda:target ~ * .log tbody tr:not(.david-rueda),
-#global_thomas-bakketun:target ~ * .log tbody tr:not(.thomas-bakketun),
-#global_alexander-artemenko:target ~ * .log tbody tr:not(.alexander-artemenko),
-#global_marcin-kolenda:target ~ * .log tbody tr:not(.marcin-kolenda),
-#global_shukry-zablah:target ~ * .log tbody tr:not(.shukry-zablah) {
+#donations_black-brane-systems:target ~ * .log tbody tr:not(.black-brane-systems),
+#donations_black-brane-systems_a:target ~ * .log tbody tr:not(.black-brane-systems_a),
+#donations_black-brane-systems_b:target ~ * .log tbody tr:not(.black-brane-systems_b),
+#donations_pavel-penev:target ~ * .log tbody tr:not(.pavel-penev),
+#donations_tor-henrik-hanken:target ~ * .log tbody tr:not(.tor-henrik-hanken),
+#donations_matthew-alhonte:target ~ * .log tbody tr:not(.matthew-alhonte),
+#donations_dave-cooper:target ~ * .log tbody tr:not(.dave-cooper),
+#donations_david-rueda:target ~ * .log tbody tr:not(.david-rueda),
+#donations_thomas-bakketun:target ~ * .log tbody tr:not(.thomas-bakketun),
+#donations_alexander-artemenko:target ~ * .log tbody tr:not(.alexander-artemenko),
+#donations_marcin-kolenda:target ~ * .log tbody tr:not(.marcin-kolenda),
+#donations_shukry-zablah:target ~ * .log tbody tr:not(.shukry-zablah) {
     visibility: collapse;
 }
 
