@@ -1,0 +1,61 @@
+#being-responsible {
+    font-size: medium;
+}
+
+.log {
+    background-color: lightgray;
+}
+
+.log .platform, .log .date, .log .txid {
+    vertical-align: top;
+}
+
+.log .multiple .tier, .log .multiple .given {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.log tbody:target .multiple .tier, .log tbody:target .multiple .given {
+    color: rgba(0, 128, 0, 0.6);
+}
+
+.log tbody + tbody {
+    border-top: solid 0.15em gray;
+}
+
+span:target ~ * .log tbody + tbody {
+    border-top: none;
+}
+
+
+#missing-cells-while-filtering {
+    display: none;
+    margin-top: 1.25em;
+}
+
+#missing-cells-while-filtering > b {
+    font-size: 2em;
+}
+
+#missing-cells-while-filtering > div p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+span:target ~ #missing-cells-while-filtering {
+    display: flex;
+}
+
+
+#donations_françois-rené-rideau:target ~ * .log tbody tr:not(.françois-rené-rideau),
+#donations_sylvia-harrington:target ~ * .log tbody tr:not(.sylvia-harrington),
+#donations_alexander-artemenko:target ~ * .log tbody tr:not(.alexander-artemenko),
+#donations_alexander-artemenko_a:target ~ * .log tbody tr:not(.alexander-artemenko_a),
+#donations_alexander-artemenko_b:target ~ * .log tbody tr:not(.alexander-artemenko_b),
+#donations_nicolas-hafner:target ~ * .log tbody tr:not(.nicolas-hafner),
+#donations_dimitri-fontaine:target ~ * .log tbody tr:not(.dimitri-fontaine),
+#donations_scambird:target ~ * .log tbody tr:not(.scambird),
+#donations_vincent-dardel:target ~ * .log tbody tr:not(.vincent-dardel),
+#donations_kat-marchán:target ~ * .log tbody tr:not(.kat-marchán),
+#donations_david-botton:target ~ * .log tbody tr:not(.david-botton) {
+    visibility: collapse;
+}

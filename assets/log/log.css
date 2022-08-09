@@ -1,0 +1,96 @@
+.heart {
+    color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url("https://non-free.hexstream.dev/global.hexstream.dev/images/heart.svg");
+}
+
+.note {
+    font-size: smaller;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.note + section {
+    margin-top: 0;
+}
+
+.log .tier,
+.log .given,
+.log .received {
+    text-align: right;
+}
+
+.log .mod {
+    margin-left: -0.3rem;
+    margin-right: 0.15rem;
+    font-size: smaller;
+    opacity: 0.6;
+}
+
+.log .day,
+.log .time {
+    white-space: nowrap;
+}
+
+.log :target th,
+.log :target td,
+.log :target td a {
+    color: green;
+}
+
+#total tr.subtotal th,
+#total tr.subtotal td {
+    color: rgba(0, 0, 0, 0.6);
+}
+
+
+#donations {
+    display: block;
+}
+
+.labelled-control input.replaced + label {
+    display: inline-block;
+    padding-right: 0;
+}
+
+.labelled-control label {
+    display: inline-block;
+    transform: translateY(-0.4em);
+}
+
+.labelled-control input.replaced + label + label + input.replaced + label {
+    margin-left: 0.75em;
+}
+
+
+#donations #show-modifiers + label + label {
+    font-style: italic;
+    margin-right: 1.5em;
+}
+
+#donations #show-modifiers:not(:checked) ~ * .log .mod,
+#donations #show-platform:not(:checked) ~ * .log .platform,
+#donations #show-tier:not(:checked) ~ * .log .tier,
+#donations #show-given:not(:checked) ~ * .log .given,
+#donations #show-received:not(:checked) ~ * .log .received,
+#donations #show-date:not(:checked) ~ * .log .date,
+#donations #show-txid:not(:checked) ~ * .log .txid {
+    display: none;
+}
+
+
+#donations > .tabs ul li {
+    display: flex;
+    flex-flow: row;
+}
+
+#donations > .tabs ul li a {
+    flex: none;
+}
+
+#donations > .tabs ul li .subsponsor {
+    padding-left: 0.25em;
+}
