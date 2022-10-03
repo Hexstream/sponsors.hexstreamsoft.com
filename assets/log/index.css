@@ -16,8 +16,8 @@
 #donations_tor-henrik-hanken:target ~ * .log tbody tr:not(.tor-henrik-hanken),
 #donations_dave-cooper:target ~ * .log tbody tr:not(.dave-cooper),
 #donations_david-rueda:target ~ * .log tbody tr:not(.david-rueda),
-#donations_shukry-zablah:target ~ * .log tbody tr:not(.shukry-zablah),
 #donations_anonymous-2:target ~ * .log tbody tr:not(.anonymous-2),
+#donations_shukry-zablah:target ~ * .log tbody tr:not(.shukry-zablah),
 #donations_thomas-bakketun:target ~ * .log tbody tr:not(.thomas-bakketun),
 #donations_alexander-artemenko:target ~ * .log tbody tr:not(.alexander-artemenko),
 #donations_marcin-kolenda:target ~ * .log tbody tr:not(.marcin-kolenda) {
