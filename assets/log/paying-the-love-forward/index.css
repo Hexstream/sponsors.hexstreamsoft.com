@@ -1,3 +1,16 @@
+#page-header h1 .heart {
+    display: inline-block;
+    background-size: 0.7em;
+}
+
+#page-header h1 .heart:first-child {
+    transform: translate(0.2em);
+}
+
+#page-header h1 .heart:not(:first-child) {
+    transform: translate(-0.05em);
+}
+
 #being-responsible {
     font-size: medium;
 }

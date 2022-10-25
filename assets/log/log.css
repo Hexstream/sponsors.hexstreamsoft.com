@@ -1,11 +1,3 @@
-.heart {
-    color: transparent;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    background-image: url("https://non-free.hexstream.dev/global.hexstream.dev/images/heart.svg");
-}
-
 .note {
     font-size: smaller;
     display: table;
