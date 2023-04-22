@@ -35,11 +35,15 @@
     vertical-align: top;
 }
 
-.log .multiple .tier, .log .multiple .given {
+.log .multiple .tier, .log .multiple .given,
+.log .prorating .tier, .log .prorating .given,
+.log .prorating .sponsored {
     color: rgba(0, 0, 0, 0.5);
 }
 
-.log tbody:target .multiple .tier, .log tbody:target .multiple .given {
+.log tbody:target .multiple .tier, .log tbody:target .multiple .given,
+.log tbody:target .prorating .tier, .log tbody:target .prorating .given,
+.log tbody:target .prorating .sponsored {
     color: rgba(0, 128, 0, 0.6);
 }
 
@@ -49,6 +53,15 @@
 
 span:target ~ * .log tbody + tbody {
     border-top: none;
+}
+
+
+#donations #show-prorating:not(:checked) ~ * .log .prorating {
+    display: none;
+}
+
+#show-prorating + label {
+    margin-left: 2.25em;
 }
 
 
