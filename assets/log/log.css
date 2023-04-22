@@ -1,3 +1,7 @@
+main {
+    margin-bottom: 0;
+}
+
 .note {
     font-size: smaller;
     display: table;
@@ -7,6 +11,10 @@
 
 .note + section {
     margin-top: 0;
+}
+
+.log {
+    margin-bottom: 0;
 }
 
 .log .tier,

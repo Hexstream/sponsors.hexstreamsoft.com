@@ -8,6 +8,18 @@
     margin-top: 1em;
 }
 
+@media (min-width: 62.5em) {
+
+    #total .scroll {
+        margin-top: -1.5em;
+    }
+
+    #total .log {
+        margin-top: 0;
+    }
+
+}
+
 #donations_black-brane-systems:target ~ * .log tbody tr:not(.black-brane-systems),
 #donations_black-brane-systems_a:target ~ * .log tbody tr:not(.black-brane-systems_a),
 #donations_black-brane-systems_b:target ~ * .log tbody tr:not(.black-brane-systems_b),
