@@ -89,7 +89,7 @@ span:target ~ #missing-cells-while-filtering {
 #donations_alexander-artemenko:target ~ * .log tbody tr:not(.alexander-artemenko),
 #donations_alexander-artemenko_a:target ~ * .log tbody tr:not(.alexander-artemenko_a),
 #donations_alexander-artemenko_b:target ~ * .log tbody tr:not(.alexander-artemenko_b),
-#donations_nicolas-hafner:target ~ * .log tbody tr:not(.nicolas-hafner),
+#donations_yukari-hafner:target ~ * .log tbody tr:not(.yukari-hafner),
 #donations_dimitri-fontaine:target ~ * .log tbody tr:not(.dimitri-fontaine),
 #donations_scambird:target ~ * .log tbody tr:not(.scambird),
 #donations_vincent-dardel:target ~ * .log tbody tr:not(.vincent-dardel),
