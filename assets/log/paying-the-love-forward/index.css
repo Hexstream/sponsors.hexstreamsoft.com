@@ -60,7 +60,7 @@ span:target ~ * .log tbody + tbody {
     display: none;
 }
 
-#show-prorating + label {
+#show-prorating + * > label:first-of-type {
     margin-left: 2.25em;
 }
 

@@ -47,26 +47,7 @@ main {
 }
 
 
-#total, #donations {
-    display: block;
-}
-
-.labelled-control input.replaced + label {
-    display: inline-block;
-    padding-right: 0;
-}
-
-.labelled-control label {
-    display: inline-block;
-    transform: translateY(-0.4em);
-}
-
-.labelled-control input.replaced + label + label + input.replaced + label {
-    margin-left: 0.75em;
-}
-
-
-#donations #show-modifiers + label + label {
+#donations #show-modifiers + * > label:first-of-type + label {
     font-style: italic;
     margin-right: 1.5em;
 }
