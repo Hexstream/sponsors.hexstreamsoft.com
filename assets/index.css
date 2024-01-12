@@ -37,6 +37,10 @@ main .tags .tag {
     opacity: 1;
 }
 
+main .tags .tag a:not(:hover) {
+    text-decoration: none;
+}
+
 
 main .tabs .additional {
     opacity: 0.6
