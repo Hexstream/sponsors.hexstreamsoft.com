@@ -17,9 +17,7 @@ main {
     margin-bottom: 0;
 }
 
-.log .tier,
-.log .given,
-.log .received {
+.log :is(.tier, .given, .received) {
     text-align: right;
 }
 
@@ -30,19 +28,16 @@ main {
     opacity: 0.6;
 }
 
-.log .day,
-.log .time {
+.log :is(.day, .time) {
     white-space: nowrap;
 }
 
-.log :target th,
-.log :target td,
+.log :target :is(th, td),
 .log :target td a {
     color: green;
 }
 
-#total tr.subtotal th,
-#total tr.subtotal td {
+#total tr.subtotal :is(th, td) {
     color: rgba(0, 0, 0, 0.6);
 }
 

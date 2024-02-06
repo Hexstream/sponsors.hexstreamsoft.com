@@ -41,8 +41,7 @@
     color: rgba(0, 0, 0, 0.5);
 }
 
-.log tbody:target .multiple .tier, .log tbody:target .multiple .given,
-.log tbody:target .prorating .tier, .log tbody:target .prorating .given,
+.log tbody:target :is(.multiple, .prorating) :is(.tier, .given),
 .log tbody:target .prorating .sponsored {
     color: rgba(0, 128, 0, 0.6);
 }

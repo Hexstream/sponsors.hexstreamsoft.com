@@ -62,8 +62,7 @@
     text-decoration: none;
 }
 
-#payouts .log caption a:hover,
-#payouts .log caption a:focus {
+#payouts .log caption a:is(:hover, :focus) {
     text-decoration: underline;
 }
 
@@ -76,12 +75,10 @@
     margin-bottom: 1em;
 }
 
-#payouts .log tbody:first-of-type tr:last-child th,
-#payouts .log tbody:first-of-type tr:last-child td {
+#payouts .log tbody:first-of-type tr:last-child :is(th, td) {
     border-bottom: none;
 }
 
-#payouts .log tbody:last-child tr th,
-#payouts .log tbody:last-child tr td {
+#payouts .log tbody:last-child tr :is(th, td) {
     border-top: thin solid black;
 }
