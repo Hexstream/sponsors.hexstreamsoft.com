@@ -3,10 +3,10 @@ main {
 }
 
 .note {
-    font-size: smaller;
     display: table;
     margin-left: auto;
     margin-right: auto;
+    font-size: smaller;
 }
 
 .note + section {

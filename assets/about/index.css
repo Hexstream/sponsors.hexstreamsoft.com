@@ -1,6 +1,6 @@
 #one-time-tiers:not(:target) + #lifetime-tiers:not(:target) + #tiers #monthly-tiers-link {
     color: black;
-    opacity: 1;
+    opacity: revert;
 }
 
 #one-time-tiers:not(:target) + #lifetime-tiers:not(:target) + #tiers #monthly-tiers-link:hover {
@@ -10,7 +10,7 @@
 #one-time-tiers:target ~ #tiers #one-time-tiers-link,
 #lifetime-tiers:target ~ #tiers #lifetime-tiers-link {
     color: black;
-    opacity: 1;
+    opacity: revert;
 }
 
 #one-time-tiers:target ~ #tiers #one-time-tiers-link:hover,
@@ -77,7 +77,7 @@
 }
 
 #tiers .cards .cards .card .hoisted {
-    opacity: 1;
+    opacity: revert;
     font-size: larger;
 }
 
@@ -91,7 +91,7 @@
 }
 
 #tiers .sponsor-me:is(:hover, :focus) {
-    text-decoration: underline;
+    text-decoration: revert;
 }
 
 #tiers #sponsor-me-on-github {

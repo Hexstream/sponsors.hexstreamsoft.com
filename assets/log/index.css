@@ -59,11 +59,10 @@
 
 #payouts .log caption a {
     color: black;
-    text-decoration: none;
 }
 
-#payouts .log caption a:is(:hover, :focus) {
-    text-decoration: underline;
+#payouts .log caption a:where(:not(:is(:hover, :focus))) {
+    text-decoration: none;
 }
 
 #payouts .log:not(#payouts > .log) {

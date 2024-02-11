@@ -34,10 +34,10 @@ main .tags {
 }
 
 main .tags .tag {
-    opacity: 1;
+    opacity: revert;
 }
 
-main .tags .tag a:not(:hover) {
+main .tags .tag a:where(:not(:hover)) {
     text-decoration: none;
 }
 
@@ -62,5 +62,5 @@ main .tabs .additional {
 }
 
 #footer p a {
-    text-decoration: underline;
+    text-decoration: revert;
 }
