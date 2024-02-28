@@ -4,7 +4,7 @@
 }
 
 #one-time-tiers:not(:target) + #lifetime-tiers:not(:target) + #tiers #monthly-tiers-link:hover {
-    background: transparent;
+    background-color: transparent;
 }
 
 #one-time-tiers:target ~ #tiers #one-time-tiers-link,
@@ -15,7 +15,7 @@
 
 #one-time-tiers:target ~ #tiers #one-time-tiers-link:hover,
 #lifetime-tiers:target ~ #tiers #lifetime-tiers-link:hover {
-    background: transparent;
+    background-color: transparent;
 }
 
 #one-time-tiers:target ~ #tiers .monthly,
@@ -39,7 +39,7 @@
     padding: 0;
     border: none;
     margin-top: 2em;
-    background: transparent;
+    background-color: transparent;
 }
 
 #tiers > .cards > .card > h1 {
@@ -103,7 +103,7 @@
     border: medium solid black;
     border-radius: 2em;
     margin: 0.5em auto;
-    background: #ECECEC;
+    background-color: #ECECEC;
     box-shadow: 0.1em 0.1em black;
 }
 
