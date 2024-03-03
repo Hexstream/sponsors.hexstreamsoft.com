@@ -131,7 +131,7 @@ main table {
 }
 
 main table .cost {
-    text-align: right;
+    text-align: end;
 }
 
 

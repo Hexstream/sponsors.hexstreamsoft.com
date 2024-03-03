@@ -18,7 +18,7 @@ main {
 }
 
 .log :is(.tier, .given, .received) {
-    text-align: right;
+    text-align: end;
 }
 
 .log .mod {
