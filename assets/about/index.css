@@ -135,6 +135,12 @@ main table .cost {
 }
 
 
+#monthly-perks #monthly-perks_exciting-future-options {
+    margin-top: 2em;
+    margin-bottom: -1.4em;
+}
+
+
 #lifetime-perks > h1 + p {
     font-size: larger;
 }
