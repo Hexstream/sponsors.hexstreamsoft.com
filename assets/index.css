@@ -38,6 +38,17 @@ main .gallery article > h1 > a:first-child {
 }
 
 
+@media (max-width: 910px) {
+    main .gallery article.small-avatar > a > img {
+        max-width: 30vw;
+    }
+
+    main .gallery article.medium-image > a > img {
+        max-width: 55vw;
+    }
+}
+
+
 main .tags {
     justify-content: flex-start;
     font-size: larger;
