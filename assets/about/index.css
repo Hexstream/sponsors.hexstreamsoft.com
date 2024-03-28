@@ -145,6 +145,10 @@ main table .cost {
     font-size: larger;
 }
 
+#lifetime-perks table {
+    margin-bottom: 1em;
+}
+
 
 #ad-kinds section ul {
     margin-right: 0;
