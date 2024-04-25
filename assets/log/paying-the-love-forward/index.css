@@ -92,6 +92,7 @@ span:target ~ #missing-cells-while-filtering {
 #donations_dimitri-fontaine:target ~ * .log tbody tr:not(.dimitri-fontaine),
 #donations_scambird:target ~ * .log tbody tr:not(.scambird),
 #donations_vincent-dardel:target ~ * .log tbody tr:not(.vincent-dardel),
+#donations_cxxxr:target ~ * .log tbody tr:not(.cxxxr),
 #donations_kat-marchán:target ~ * .log tbody tr:not(.kat-marchán),
 #donations_david-botton:target ~ * .log tbody tr:not(.david-botton) {
     visibility: collapse;
