@@ -1,7 +1,4 @@
 #page-header + .tabs {
     font-size: x-large;
-}
-
-#page-header + .tabs ul {
-    margin-bottom: 0;
+    margin-bottom: calc(1.7em - 0.8rem);
 }
