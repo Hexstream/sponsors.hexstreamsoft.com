@@ -2,7 +2,7 @@ main {
     margin-bottom: 0;
 }
 
-.note {
+.note:not(.notice) {
     display: table;
     margin-left: auto;
     margin-right: auto;
